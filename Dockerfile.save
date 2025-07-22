@@ -1,0 +1,8 @@
+FROM
+
+WORKDIR
+
+RUN
+
+CMD
+
